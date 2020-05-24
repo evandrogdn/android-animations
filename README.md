@@ -1,0 +1,1 @@
+## Implementação de animações para android
